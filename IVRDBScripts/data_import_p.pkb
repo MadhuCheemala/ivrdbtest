@@ -1,4 +1,4 @@
-CREATE OR REPLACE PACKAGE BODY cdm.data_import_pbs_SK 
+CREATE OR REPLACE PACKAGE BODY cdm.data_import_pbs_SKM 
 AS
     gc_package_name CONSTANT VARCHAR2(61) := 'CDM.DATA_IMPORT_P';
     gc_upd_part_reason		CONSTANT VARCHAR2(100) := 'UpdatedThruExternalFile';
